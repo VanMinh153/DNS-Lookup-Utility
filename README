@@ -1,12 +1,10 @@
-DNS Lookup & File Upload Utility
-Run guide:
-open console in Linux
-go to project folder
+# **DNS Lookup & File Upload Utility**
 
-run this command in server side
+<embed> https://github.com/VanMinh153/DNS-Lookup-Utility/files/15027748/Network.Programming.Project.pdf </embed>
+Run guide: open console in Linux and go to project folder
+1. Run this command in Server side
 make
 ./server <Port_Number>
-
-run this command in client side
+2. Run this command in Client side
 make
 ./client <Server_IP> <Port_Number>
