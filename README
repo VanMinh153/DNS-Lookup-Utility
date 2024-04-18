@@ -1,5 +1,5 @@
-# _DNS Lookup & File Upload Utility
-_Presentation slide
+# DNS Lookup & File Upload Utility
+Presentation slide
 ![image](https://github.com/VanMinh153/DNS-Lookup-Utility/assets/119786809/9d242d2c-4d6d-4bf7-bd94-e38325b6eec8)
 ![image](https://github.com/VanMinh153/DNS-Lookup-Utility/assets/119786809/6584ee9c-6427-4b1b-8fd1-22428d437e59)
 ![image](https://github.com/VanMinh153/DNS-Lookup-Utility/assets/119786809/f5ffbb4e-0763-4a5b-9928-cf74b9b4b3ec)
@@ -15,7 +15,7 @@ _Presentation slide
 ![image](https://github.com/VanMinh153/DNS-Lookup-Utility/assets/119786809/0e5bf4c6-a91a-4c05-b9cd-3b756eb58c3a)
 ![image](https://github.com/VanMinh153/DNS-Lookup-Utility/assets/119786809/b3a84ac4-34c5-4030-a284-f167826a06f6)
 
-_Run guide: open console in Linux and go to project folder
+Run guide: open console in Linux and go to project folder
 1. Run this command in Server side
 make
 ./server <Port_Number>
