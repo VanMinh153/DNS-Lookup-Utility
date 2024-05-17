@@ -11,7 +11,6 @@
 ![image](https://github.com/VanMinh153/DNS-Lookup-Utility/assets/119786809/10d4cfb2-32a0-4e13-9d8f-25b0ff6ff691)
 ![image](https://github.com/VanMinh153/DNS-Lookup-Utility/assets/119786809/d5f88ff6-3e25-4b85-9e13-e4374511e04b)
 ![image](https://github.com/VanMinh153/DNS-Lookup-Utility/assets/119786809/f7f4b87f-ded9-4150-87c8-aed5aed1e520)
-![image](https://github.com/VanMinh153/DNS-Lookup-Utility/assets/119786809/0e5bf4c6-a91a-4c05-b9cd-3b756eb58c3a)
 
 ## **Run guide: open console in Linux and go to project folder**
 1. Run this command in Server side
